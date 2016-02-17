@@ -1,3 +1,3 @@
-# kovalchuk.github.io
+# KovalchukBohdan.github.io
 
 В этом репозитории выкладываются домашние задания с курсов.
