@@ -1,0 +1,50 @@
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: #a23bd2;
+    font: 10px economica;
+}
+
+li,
+div {
+    display: inline-block;
+}
+
+.pager-prev a:before {
+    content: "\00AB";
+}
+
+.pager-next a:after {
+    content: "\00BB";
+}
+
+.pager-numb a {
+    padding: 5px 8px;
+    border: 1px solid #dddddd;
+    border-radius: 5px;
+    margin: 3px;
+}
+
+.pager-pointer {
+    margin: 0px 4px;
+    position: relative;
+    top: 7px;
+    color: #a23bd2;
+}
+
+.pager-numb a:hover {
+    background-color: #a23bd2;
+    border-color: #7d13bd;
+    color: white;
+}
+
+.pager-prev li:first-child {
+    padding-right: 10px;
+}
+
+.pager-next li:first-child {
+    padding-right: 10px;
+}

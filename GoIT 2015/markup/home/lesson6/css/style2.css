@@ -1,0 +1,118 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.testimonials {
+    position: relative;
+    width: 100%;
+    background: url(../img/bg.jpg) repeat;
+    min-height: 420px;
+}
+
+.testimonials-title {
+    font: normal 40px "Trebuchet MS";
+    text-transform: uppercase;
+    color: #3170a8;
+    line-height: 0.8;
+    text-align: center;
+    padding: 60px 0 50px 0;
+    margin: 0 auto;
+}
+
+.testimonials-title span {
+    color: #ee8129;
+}
+
+.portret {
+    float: left;
+    width: 100px;
+    height: 100px;
+}
+
+.comment {
+    float: right;
+    width: 365px;
+    border: 1px solid #e0e0e0;
+    background-color: #f7f7f7;
+    box-shadow: 0.5px 0.866px 2px 0px rgba(0, 0, 0, 0.17);
+    min-height: 98px;
+}
+
+.header-comment {
+    position: relative;
+    width: 330px;
+    margin: 0 auto;
+    border-bottom: 2px dotted #666666;
+    font: italic 13px "Trebuchet MS";
+    color: #3070a8;
+    line-height: 0.8;
+}
+
+.name,
+.role {
+    margin: 0;
+    padding: 15px 0 10px 0;
+}
+
+.header-comment .name {
+    position: relative;
+}
+
+.header-comment .role {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.content {
+    font: normal 13px "Trebuchet MS";
+    color: #666666;
+    width: 330px;
+    margin: 11px auto;
+}
+
+.testimonial-main {
+    width: 1020px;
+    margin: 0 auto;
+}
+
+.testimonial {
+    width: 490px;
+}
+
+.testimonial.left-column {
+    float: left;
+    position: relative;
+    margin-bottom: 40px;
+}
+
+.testimonial.left-column:before {
+    content: "";
+    position: absolute;
+    left: 107px;
+    top: 38px;
+    width: 0;
+    height: 0;
+    border-right: 18px solid #f7f7f7;
+    border-top: 15px solid transparent;
+    border-bottom: 15px solid transparent;
+}
+
+.testimonial.right-column {
+    float: right;
+    position: relative;
+    margin-bottom: 40px;
+}
+
+.testimonial.right-column:before {
+    content: '';
+    position: absolute;
+    left: 107px;
+    top: 38px;
+    width: 0;
+    height: 0;
+    border-right: 18px solid #f7f7f7;
+    border-top: 15px solid transparent;
+    border-bottom: 15px solid transparent;
+}

@@ -1,0 +1,75 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.search-gradient {
+    position: relative;
+    background: #ffcd5d;
+    margin: 50px;
+    height: 54px;
+    min-width: 350px;
+    background: linear-gradient(to top, #e8ac23, #ffcb46);
+}
+
+.search-field-gradient {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    right: 81px;
+}
+
+.search-button-gradient input {
+    position: absolute;
+    top: 5px;
+    right: 10px;
+    text-align: center;
+    width: 67px;
+    height: 26px;
+}
+
+.search-example-gradient {
+    position: relative;
+    top: 35px;
+    left: 5px;
+    font: normal 0.8em sans-serif;
+}
+
+input {
+    display: inline-block;
+}
+
+input[type="search"] {
+    width: 100%;
+    height: 26px;
+}
+
+.search-gradient::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: -40px;
+    border: solid 20px transparent;
+    border-top: solid 28px #FFF;
+}
+
+.search-gradient-addon {
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 100%;
+    width: 20px;
+    background: linear-gradient(to top, #e8ac23, #ffcb46);
+}
+
+.search-gradient-addon::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: -20px;
+    border: solid 20px transparent;
+    border-bottom: solid 28px #FFF;
+}

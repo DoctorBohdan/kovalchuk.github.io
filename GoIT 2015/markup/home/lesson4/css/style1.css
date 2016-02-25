@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: #a64dff;
+}
+
+.main-nav {
+    font: bold 16px Economica;
+    text-transform: uppercase;
+    list-style-type: none;
+    width: 900px;
+    margin: 0 auto;
+    padding: 11px 0;
+}
+
+li {
+    display: inline-block;
+    margin: 0 -2px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    padding: 11px 15px;
+}
+
+a:hover {
+    color: #a0a0a0;
+    background-color: #eeeeee;
+}

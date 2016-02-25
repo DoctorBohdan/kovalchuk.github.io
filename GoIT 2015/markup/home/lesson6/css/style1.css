@@ -1,0 +1,175 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.enroll h2 {
+    font: bold 30px "Trebuchet MS";
+    text-transform: uppercase;
+    line-height: 0.8;
+    color: #41525c;
+    margin-bottom: 64px;
+}
+
+.enroll {
+    width: 900px;
+    text-align: center;
+    margin: 0 auto;
+    position: relative;
+}
+
+.main-container {
+    font: bold 24px "Trebuchet MS";
+    text-transform: uppercase;
+    line-height: 0.8;
+    width: 288px;
+    border-radius: 4px;
+    display: inline-block;
+    border: 1px solid #e8eaec;
+    background: #fff;
+}
+
+.best-value {
+    border: 4px solid #ee8129;
+    box-shadow: 0 0 13px 0.13px #0874b2;
+    height: 480px;
+    position: absolute;
+    left: 302px;
+}
+
+.standart {
+    position: absolute;
+    left: 20px;
+    margin-top: 20px;
+    height: 450px;
+}
+
+.ultimate {
+    position: absolute;
+    left: 590px;
+    margin-top: 20px;
+    height: 450px;
+}
+
+span {
+    text-align: center;
+    display: block;
+}
+
+.header span {
+    color: white;
+}
+
+.standart .header span {
+    background-color: #37c2d3;
+    padding: 19px 0;
+}
+
+.best-value .header span {
+    background-color: #ee8129;
+    padding: 27px 0;
+}
+
+.ultimate .header span {
+    background-color: #1cb79a;
+    padding: 19px 0;
+}
+
+.content span {
+    color: #3f4042;
+    padding-top: 23px;
+}
+
+.price {
+    text-align: center;
+    position: relative;
+}
+
+.price div {
+    color: #35495a;
+    display: inline-block;
+    margin: 0 -4px;
+}
+
+.price div:first-child {
+    font-size: 18px;
+    vertical-align: super;
+    position: absolute;
+    left: 66px;
+    margin-top: 29px;
+}
+
+.price div:nth-child(2) {
+    font-size: 72px;
+    position: absolute;
+    margin-top: 31px;
+    left: 76px;
+}
+
+.price div:last-child {
+    font-size: 18px;
+    text-transform: none;
+    position: absolute;
+    padding-top: 79px;
+    left: 155px
+}
+
+.list {
+    margin-top: 123px;
+    margin-bottom: 0px;
+    display: inline-block;
+    width: 288px;
+    padding-left: 0px;
+}
+
+.list li {
+    color: #888c94;
+    font: normal 15px "Trebuchet MS";
+    text-transform: none;
+    list-style: none;
+    margin-left: 0;
+    margin: 0 15px 1px 15px;
+    padding: 9px 0 9px 33px;
+    text-align: left;
+}
+
+.list li:before {
+    content: url("../img/shape.png");
+    padding-right: 16px;
+}
+
+.list li:nth-child(2n+1) {
+    background-color: #edf5fd;
+}
+
+.list li:nth-child(2n) {
+    background-color: #f5f5f6;
+}
+
+.button {
+    margin: 17px 18px 20px 18px;
+    background-color: #3371a6;
+    min-height: 38px;
+    border-radius: 5px;
+    border-bottom: 3px solid #16436a;
+}
+
+.best-value .button {
+    margin: 17px 18px 30px 18px;
+    background-color: #ee8129;
+    border-bottom: 3px solid #b3560b;
+}
+
+.button span {
+    color: white;
+    font-size: 14px;
+    padding: 14px 0;
+}
+
+.button:hover {
+    cursor: pointer;
+    margin-top: 20px;
+    border-bottom: 0px;
+}
+
+.best-value .button:hover {}
