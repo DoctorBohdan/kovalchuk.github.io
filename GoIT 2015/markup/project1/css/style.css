@@ -1,5 +1,4 @@
 body {
-    width: 1400px;
     margin: 0 auto;
 }
 
@@ -70,102 +69,12 @@ header {
 /*Конец секции Header*/
 
 
-/*Секция Services*/
-
-.services {
-    height: 563px;
-}
-
-.services-title {
-    text-align: center;
-    font: bold 30px "Trebuchet MS";
-    text-transform: uppercase;
-    color: #41525c;
-    padding-top: 62px;
-}
-
-.services-items {
-    text-align: center;
-}
-
-.services-item {
-    width: 300px;
-    display: inline-block;
-    padding-top: 70px;
-    margin: 0 25px;
-}
-
-.item-title {
-    font: normal 30px "Trebuchet MS";
-    text-transform: uppercase;
-    color: #3070a8;
-    padding-top: 25px;
-}
-
-.item-text {
-    font: normal 14px "Open Sans";
-    color: #999999;
-    line-height: 1.8;
-    padding-top: 12px;
-    -padding-bottom: 50px;
-}
-
-
-/*Конец секции Services*/
-
-
-/*Секция Middle*/
-
-.middle {
-    height: 577px;
-    background: url(../img/middle-bg.jpg);
-}
-
-.middle-title {
-    font: normal 26px "Trebuchet MS";
-    text-transform: uppercase;
-    color: #ee8129;
-    line-height: 1.8;
-    padding-right: 330px;
-    padding-top: 77px;
-}
-
-.middle-subtitle {
-    font: italic 19px "Open Sans";
-    color: #fff;
-    padding-top: 8px;
-}
-
-.middle-list {
-    font: normal 14px "Open Sans";
-    color: #9d9d9d;
-    line-height: 2.2;
-    list-style-position: outside;
-    list-style-image: url(../img/ellipse.png);
-    padding-left: 32px;
-    padding-top: 30px;
-}
-
-.middle-list li {
-    padding-left: 7px;
-    padding-right: 380px;
-    padding-bottom: 10px;
-}
-
-.middle-list .mark {
-    color: #3070a8;
-    list-style-image: url(../img/ellipse-mark.png);
-}
-
-
-/*Конец секции Middle*/
-
-
 /*Секция Banner*/
 
 .banner {
     height: 585px;
-    background: url(../img/banner-bg.jpg);
+    background: url(../img/banner-bg.jpg) no-repeat;
+    background-size: cover;
     text-align: center;
 }
 
@@ -207,6 +116,101 @@ header {
 
 
 /*Конец секции Banner*/
+
+
+/*Секция Services*/
+
+.services {
+    height: 563px;
+}
+
+.services-title {
+    text-align: center;
+    font: bold 30px "Trebuchet MS";
+    text-transform: uppercase;
+    color: #41525c;
+    padding-top: 62px;
+}
+
+.services-items {
+    text-align: center;
+}
+
+.services-item {
+    width: 300px;
+    display: inline-block;
+    padding-top: 70px;
+    margin-right: 35px;
+}
+
+.services-item:last-child {
+    margin-right: 0;
+}
+
+.item-title {
+    font: normal 30px "Trebuchet MS";
+    text-transform: uppercase;
+    color: #3070a8;
+    padding-top: 25px;
+}
+
+.item-text {
+    font: normal 14px "Open Sans";
+    color: #999999;
+    line-height: 1.8;
+    padding-top: 12px;
+}
+
+
+/*Конец секции Services*/
+
+
+/*Секция Middle*/
+
+.middle {
+    height: 577px;
+    background: url(../img/middle-bg.jpg) no-repeat;
+    background-size: cover;
+}
+
+.middle-title {
+    font: normal 26px "Trebuchet MS";
+    text-transform: uppercase;
+    color: #ee8129;
+    line-height: 1.8;
+    padding-right: 330px;
+    padding-top: 77px;
+}
+
+.middle-subtitle {
+    font: italic 19px "Open Sans";
+    color: #fff;
+    padding-top: 8px;
+}
+
+.middle-list {
+    font: normal 14px "Open Sans";
+    color: #9d9d9d;
+    line-height: 2.2;
+    list-style-position: outside;
+    list-style-image: url(../img/ellipse.png);
+    padding-left: 32px;
+    padding-top: 30px;
+}
+
+.middle-list li {
+    padding-left: 7px;
+    padding-right: 380px;
+    padding-bottom: 10px;
+}
+
+.middle-list .mark {
+    color: #3070a8;
+    list-style-image: url(../img/ellipse-mark.png);
+}
+
+
+/*Конец секции Middle*/
 
 
 /*Секция Pricing*/
@@ -392,7 +396,8 @@ header {
 
 .testimonials {
     position: relative;
-    background: url(../img/bg.jpg) repeat;
+    background: url(../img/bg.jpg) no-repeat;
+    background-size: cover;
     min-height: 315px;
 }
 
