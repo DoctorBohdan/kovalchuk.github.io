@@ -43,12 +43,13 @@ header {
     list-style: none;
     margin: 60px 0px 0px 0px;
     text-align: center;
+    -moz-margin-top: 58px;
 }
 
 .main-nav a {
     text-decoration: none;
     display: inline-block;
-    padding: 0 17px;
+    padding: 0 13px;
     font: 600 14px "Open Sans";
     text-transform: uppercase;
     color: #989898;
@@ -73,7 +74,7 @@ header {
 
 .banner {
     height: 585px;
-    background: url(../img/banner-bg.jpg) no-repeat;
+    background: url(../img/banner-bg.jpg) 100% 100% no-repeat;
     background-size: cover;
     text-align: center;
 }
@@ -105,6 +106,11 @@ header {
     height: 57px;
     border: 1px solid rgba(255, 255, 255, .5);
     margin: 0 auto;
+}
+
+.banner-button:hover {
+    background: rgba(133, 150, 162, .2);
+    cursor: pointer;
 }
 
 .banner-button div {
@@ -204,7 +210,7 @@ header {
     padding-bottom: 10px;
 }
 
-.middle-list .mark {
+.middle-list li:hover {
     color: #3070a8;
     list-style-image: url(../img/ellipse-mark.png);
 }
@@ -386,8 +392,6 @@ header {
     border-bottom: 0px;
 }
 
-.best-value .button:hover {}
-
 
 /*Конец секции Pricing*/
 
@@ -512,3 +516,120 @@ header {
 
 
 /*Конец секции Testimonials*/
+
+
+/*Секция Footer*/
+
+.footer {
+    width: 100%;
+    margin: auto;
+}
+
+.map {
+    background: url(../img/footer-bg.jpg) 100% 100% no-repeat;
+    max-width: 100%;
+    height: 345px;
+    background-size: cover;
+    margin-left: 50%;
+    width: 50%;
+}
+
+.contact-container {
+    width: 50%;
+    float: left;
+    height: 345px;
+}
+
+.contact-box {
+    float: right;
+    padding-right: 310px;
+    padding-top: 42px;
+}
+
+.contact {
+    font: normal 14px "Open Sans";
+    color: #666666;
+    line-height: 2em;
+    padding-left: 40px;
+}
+
+.adress:before {
+    content: '';
+    background: url("../img/footer-icon-pointer.png");
+    position: absolute;
+    display: block;
+    width: 23px;
+    height: 31px;
+    margin-left: -35px;
+}
+
+.phone:before {
+    content: '';
+    background: url("../img/footer-icon-phone.png");
+    position: absolute;
+    display: block;
+    width: 18px;
+    height: 26px;
+    margin-left: -35px;
+}
+
+.email:before {
+    content: '';
+    background: url("../img/footer-icon-email.png");
+    position: absolute;
+    display: block;
+    margin-left: -37px;
+    margin-top: 8px;
+    width: 23px;
+    height: 16px;
+}
+
+.social {
+    margin-top: 32px;
+}
+
+.social a {
+    opacity: .4;
+    padding-right: 10px;
+}
+
+.social a:hover {
+    opacity: 1;
+}
+
+
+/*Конец секции Footer*/
+
+
+/*Секция Copyright*/
+
+.copyright {
+    height: 104px;
+    background: #3070a8;
+    width: 100%;
+    text-align: center;
+}
+
+.copyright-text {
+    font: normal 14px "Open Sans";
+    color: #fff;
+    line-height: 2.143;
+    padding-top: 20px;
+}
+
+.copyright-text .company {
+    font-weight: bold;
+}
+
+.copyright-text .designed {
+    font-weight: bold;
+    color: #1d1c1c;
+    text-decoration: none;
+}
+
+.copyright-text .designed:hover {
+    color: #ee8129;
+}
+
+
+/*Конец секции Copyright*/
