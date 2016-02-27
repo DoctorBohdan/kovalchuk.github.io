@@ -85,3 +85,49 @@ a {
     background: rgba(40, 180, 247, 0.5);
     transition: 0.4s;
 }
+
+.preview {}
+
+.overlay {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(255, 255, 255, 0.9);
+    transition: opacity 0.4s;
+    visibility: hidden;
+    opacity: 0;
+}
+
+.overlay:target {
+    visibility: visible;
+    opacity: 1;
+}
+
+.popup {
+    margin: 0 auto;
+    max-width: 1146px;
+    min-width: 360px;
+    margin-top: 220px;
+    position: relative;
+    transition: all 0.2s ease-in-out;
+}
+
+.popup .close {
+    position: absolute;
+    top: -20px;
+    right: 20px;
+    width: 40px;
+    height: 40px;
+    background: #f74c26;
+    transition: all 200ms;
+}
+
+.popup .close img {
+    margin-top: 15px;
+}
+
+.popup .close:hover {
+    background: #25a6f7;
+}
