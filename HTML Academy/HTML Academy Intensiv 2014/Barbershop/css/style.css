@@ -178,6 +178,8 @@ body {
     width: 20px;
     height: 20px;
     background: #fff;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
     transform: rotate(45deg);
 }
 
@@ -255,6 +257,8 @@ body {
     background: #000;
 }
 
+
+/*
 .gallery {
     padding-top: 6px;
     position: relative;
@@ -287,6 +291,60 @@ body {
 .gallery-next {
     right: 0;
 }
+*/
+
+.gallery-content {
+    margin: 0;
+}
+
+.gallery-content img {
+    width: 143px;
+    height: 82px;
+    margin-right: 5px;
+}
+
+/*Дополнительные стили для Галереи, которые активируются JS*/
+
+.gallery-live {
+    position: relative;
+    padding-bottom: 82px;
+}
+
+.gallery-live .gallery-content {
+    position: relative;
+    height: 164px;
+    border: 7px solid #fff;
+    background: #ccc;
+}
+
+.gallery-live .gallery-content a {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.gallery-live .gallery-content img {
+    width: 286px;
+    height: 164px;
+}
+
+.gallery-live .btn {
+    position: absolute;
+    bottom: 0;
+    width: 140px;
+    margin: 0;
+}
+
+.gallery-live .gallery-prev {
+    left: 0;
+}
+
+.gallery-live .gallery-next {
+    right: 0;
+}
+
+
+/*конец Галереи*/
 
 .index-content p {
     margin: 0;
@@ -334,7 +392,7 @@ body {
 
 .inner-page-title h1 {
     margin: 0;
-    margin-bottom: 20px;
+    margin-bottom: 12px;
     padding: 0;
     font-size: 30px;
     line-height: 42px;
@@ -360,6 +418,8 @@ body {
     width: 8px;
     height: 8px;
     background: #000;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
     transform: rotate(45deg);
 }
 
@@ -451,6 +511,8 @@ body {
     width: 8px;
     height: 8px;
     background: #000;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
     transform: rotate(45deg);
 }
 
@@ -597,3 +659,205 @@ body {
 
 
 /* END section FOOTER */
+
+
+/* Section MODAL CONTENT */
+
+.modal-content {
+    position: fixed;
+    top: 0;
+    left: 50%;
+    display: none;
+    width: 300px;
+    margin-top: 150px;
+    margin-left: -230px;
+    padding: 50px 80px;
+    color: #000;
+    background: #f8f3f0 url('../img/index-bg.jpg');
+    box-shadow: 0 30px 50px rgba(0, 0, 0, .7);
+}
+
+@keyframes bounce {
+    0% {
+        transform: translateY(-2000px);
+    }
+    70% {
+        transform: translateY(30px);
+    }
+    90% {
+        transform: translateY(-10px);
+    }
+    100% {
+        transform: translateY(0px);
+    }
+}
+
+@keyframes shake {
+    0%,
+    100% {
+        transform: translateX(0);
+    }
+    10%,
+    30%,
+    50%,
+    70%,
+    90% {
+        transform: translateX(-10px);
+    }
+    20%,
+    40%,
+    60%,
+    80% {
+        transform: translateX(10px);
+    }
+}
+
+.modal-error {
+    animation: shake .6s;
+}
+
+.modal-content-close {
+    position: absolute;
+    top: 0;
+    right: -50px;
+    width: 40px;
+    height: 40px;
+    font-size: 0;
+    cursor: pointer;
+    background: url('../img/spritebox-sprite.png') no-repeat center;
+    opacity: .4;
+    background-position: 9px -32px;
+}
+
+.modal-content-close:hover {
+    opacity: .8;
+}
+
+.modal-content h2 {
+    margin: 0;
+    margin-bottom: 20px;
+    font-size: 30px;
+    line-height: 42px;
+}
+
+.modal-content p {
+    margin: 0;
+    margin-bottom: 14px;
+}
+
+.modal-content .login-form {
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+
+/*форма входа на внутренней странице*/
+
+.inner-content .login-form {
+    width: 300px;
+    margin: 0 auto;
+    min-height: 300px;
+}
+
+.login-form input[type="text"],
+.login-form input[type="password"] {
+    width: 236px;
+    margin: 0;
+    margin-bottom: 10px;
+    padding: 10px 20px;
+    padding-right: 40px;
+    font: 700 14px "PT Sans Narrow", sans-serif;
+    line-height: 24px;
+    text-transform: uppercase;
+    color: #000;
+    border: 2px solid #000;
+    outline: none;
+    background: #f9f6f3;
+}
+
+.login-form input:focus {
+    border-color: #663d15;
+}
+
+.login-form input.icon-user {
+    background: url('../img/spritebox-sprite.png') no-repeat;
+    background-position: 100% -307px;
+}
+
+.login-form input.icon-password {
+    background: url('../img/spritebox-sprite.png') no-repeat;
+    background-position: 101% -269px;
+}
+
+.login-form .restore {
+    float: right;
+    color: #000;
+}
+
+.login-form .btn {
+    width: 100%;
+    margin-top: 15px;
+}
+
+
+/*стилизуем Чекбокс*/
+
+.login-form input[type="checkbox"] {
+    display: none;
+}
+
+.login-form input[type="checkbox"] + label {
+    position: relative;
+    display: inline-block;
+    padding-left: 30px;
+    cursor: pointer;
+    vertical-align: top;
+}
+
+.login-form input[type="checkbox"] + label:hover {
+    color: #663d15;
+}
+
+.login-form input[type="checkbox"] + label::before {
+    content: '';
+    position: absolute;
+    top: 2px;
+    left: 0;
+    width: 17px;
+    height: 17px;
+    border: 2px solid #000;
+}
+
+.login-form input[type="checkbox"]:checked + label::before {
+    background: url('../img/spritebox-sprite.png') no-repeat;
+    background-position: 0.5px -79px;
+}
+
+
+/* END section MODAL CONTENT */
+
+
+/* Section MODAL MAP */
+
+.modal-content-map {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    width: 766px;
+    height: 561px;
+    margin-left: -390px;
+    margin-top: -287.5px;
+    border: 7px solid #fff;
+    background: #e9e5dc;
+    box-shadow: 0 30px 50px rgba(0, 0, 0, .7);
+}
+
+
+/* END section MODAL MAP */
+
+.modal-content-show {
+    display: block;
+    /*анимация падания модального окна*/
+    animation: bounce .6s;
+}

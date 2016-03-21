@@ -5,8 +5,8 @@
     <meta charset="utf-8">
     <title>Barbershop Borodinski</title>
     <link href='https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="css/normalize.css">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/normalize.min.css">
+    <link rel="stylesheet" href="css/style.min.css">
 </head>
 
 <body>
@@ -15,7 +15,7 @@
             <nav class="main-navigation">
                 <ul>
                     <li class="active"><a href="#">Главная</a></li>
-                    <li><a href="information.html">Информация</a></li>
+                    <li><a href="#">Информация</a></li>
                     <li><a href="#">Новости</a></li>
                     <li><a href="price.html">Прайс-лист</a></li>
                     <li><a href="#">Магазин</a></li>
@@ -23,7 +23,7 @@
                 </ul>
             </nav>
             <div class="user-block">
-                <a href="#" class="login">Вход</a>
+                <a href="login.html" class="login">Вход</a>
             </div>
         </div>
     </header>
@@ -67,7 +67,10 @@
                 <h2 class="content-column-title">Фотогалерея</h2>
                 <div class="gallery">
                     <figure class="gallery-content">
-                        <img src="img/gallery-1.jpg" width="286" height="164" alt="Gallery IMG">
+                        <a href=""><img src="img/gallery-1.jpg" width="286" height="164" alt="Gallery IMG 1"></a>
+                        <a href=""><img src="img/gallery-1.jpg" width="286" height="164" alt="Gallery IMG 2"></a>
+                        <a href=""><img src="img/gallery-1.jpg" width="286" height="164" alt="Gallery IMG 3"></a>
+                        <a href=""><img src="img/gallery-1.jpg" width="286" height="164" alt="Gallery IMG 3"></a>
                     </figure>
                     <button class="btn gallery-prev">Назад</button>
                     <button class="btn gallery-next">Вперед</button>
@@ -85,7 +88,7 @@
                     <p>Время работы:
                         <br> пн - пт: с 10:00 до 22:00
                         <br> сб - вс: с 10:00 до 19:00</p>
-                    <a href="#" class="btn">Как проехать</a>
+                    <a href="map.html" class="btn open-map">Как проехать</a>
                     <a href="#" class="btn">Обратная связь</a>
                 </div>
             </section>
@@ -104,25 +107,6 @@
             </section>
         </div>
     </div>
-
-
-    <!--Карточка входа в личный кабинет-->
-    <!--     <article>       
-        <div class="login-popup">
-            <div>
-                <h1>Личный кабинет</h1>
-                <p>Введите пожалуйста свой логин и пароль</p>
-            </div>
-            <form action="/auth" class="login-form" method="post">
-                <input type="text" class="login-field" name="login" placeholder="Логин">
-                <input type="password" class="password-field" name="password" placeholder="Пароль">
-                <a href="/restore" class="restore">Я забыл пароль</a>
-                <label>
-                    <input type="checkbox" name="remember"> Запомните меня</label>
-                <input type="submit" value="Войти">
-            </form>
-        </div>
-    </article> -->
 
     <footer class="main-footer">
         <div class="container clearfix">
@@ -143,6 +127,38 @@
             </section>
         </div>
     </footer>
+
+    <!--Карточка входа в личный кабинет-->
+    <article class="modal-content">
+        <div class="modal-content-close">Закрыть</div>
+
+        <h2>Личный кабинет</h2>
+        <p>Введите пожалуйста свой логин и пароль</p>
+
+        <form class="login-form" action="/echo" method="post">
+            <input type="text" class="icon-user" name="login" placeholder="Логин" required>
+            <input type="password" class="icon-password" name="password" placeholder="Пароль" required>
+            <input type="checkbox" name="remember" id="remember-me">
+            <label for="remember-me">Запомните меня</label>
+            <a href="#" class="restore">Я забыл пароль!</a>
+            <button type="submit" class="btn">Войти</button>
+        </form>
+    </article>
+    <!--END Карточка входа-->
+
+    <div class="modal-content-map">
+        <div class="modal-content-close">Закрыть</div>
+        <!--Карта Google-->
+        <!--<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2540.042043976752!2d30.402648995198945!3d50.45894175959119!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40d4cc5c80ab3c85%3A0xbf8fd649a2d0cd6b!2z0J3QuNCy0LrQuA!5e0!3m2!1sru!2sua!4v1458509097628" width="766" height="561" frameborder="0" style="border:0" allowfullscreen></iframe>-->
+
+        <!--Карта Яндекс-->
+        <div id="yandex-map"></div>
+    </div>
+
+    <script type="text/javascript" charset="utf-8" src="https://api-maps.yandex.ru/services/constructor/1.0/js/?sid=MdL-y49gr38JUzV3eAJU6MtcxEcb-MGs&width=766&height=561&id=yandex-map&lang=ru_UA&sourceType=constructor"></script>
+    <script src="js/script.js"></script>
+    <script src="js/gallery.js"></script>
+
 </body>
 
 </html>
