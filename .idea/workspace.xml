@@ -1,0 +1,820 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ce6d8a3f-fa34-40b3-bce3-77b555810362" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/colornames/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/colors/screenshots/colors.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/plates.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/Grunfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/.bin/vows" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/.bin/vows.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/.bin/which" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/.bin/which.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/accepts/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/accepts/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/accepts/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/accepts/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/accepts/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/accepts/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/access-control/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/access-control/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/access-control/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/access-control/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/ansi-codes/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/ansi-codes/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/ansi-codes/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/ansi-codes/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/ansi-regex/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/ansi-regex/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/ansi-regex/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/ansi-regex/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/ansi-styles/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/ansi-styles/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/ansi-styles/node_modules/color-convert/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/ansi-styles/node_modules/color-convert/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/ansi-styles/node_modules/color-convert/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/ansi-styles/node_modules/color-convert/conversions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/ansi-styles/node_modules/color-convert/css-keywords.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/ansi-styles/node_modules/color-convert/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/ansi-styles/node_modules/color-convert/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/ansi-styles/node_modules/color-convert/route.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/ansi-styles/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/ansi-styles/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/assume/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/assume/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/assume/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/assume/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/assume/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/assume/test/phantom.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/assume/test/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/async/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/async/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/async/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/async/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/async/lib/async.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/async/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/asyncemit/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/asyncemit/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/asyncemit/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/asyncemit/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/buffer-crc32/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/buffer-crc32/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/buffer-crc32/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/buffer-crc32/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/buffer-crc32/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/buffer-crc32/tests/crc.test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/chalk/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/chalk/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/chalk/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/chalk/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/color-convert/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/color-convert/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/color-convert/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/color-convert/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/color-convert/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/color-convert/conversions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/color-convert/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/color-convert/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/color-convert/test/basic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/color-convert/test/speed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/color-name/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/color-name/UNLICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/color-name/index.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/color-name/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/colornames/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/colornames/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/colornames/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/colornames/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/colornames/colors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/colornames/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/colornames/example/color-table/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/colornames/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/colornames/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/colornames/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/colors/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/colors/MIT-LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/colors/ReadMe.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/colors/examples/normal-usage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/colors/examples/safe-string.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/colors/lib/colors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/colors/lib/custom/trap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/colors/lib/custom/zalgo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/colors/lib/extendStringPrototype.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/colors/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/colors/lib/maps/america.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/colors/lib/maps/rainbow.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/colors/lib/maps/random.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/colors/lib/maps/zebra.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/colors/lib/styles.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/colors/lib/system/supports-colors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/colors/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/colors/safe.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/colors/tests/basic-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/colors/tests/safe-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/colors/themes/generic-logging.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/colorspace/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/colorspace/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/colorspace/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/colorspace/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/colorspace/node_modules/color-string/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/colorspace/node_modules/color-string/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/colorspace/node_modules/color-string/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/colorspace/node_modules/color-string/color-string.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/colorspace/node_modules/color-string/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/colorspace/node_modules/color-string/test/basic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/colorspace/node_modules/color/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/colorspace/node_modules/color/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/colorspace/node_modules/color/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/colorspace/node_modules/color/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/colorspace/node_modules/color/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/colorspace/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/concat-stream/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/concat-stream/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/concat-stream/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/concat-stream/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/connected/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/connected/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/connected/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/connected/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/connected/test/connected.test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/connected/test/mocha.opts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/cookie-signature/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/cookie-signature/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/cookie-signature/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/cookie-signature/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/cookie-signature/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/cookie-signature/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/cookie/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/cookie/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/cookie/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/cookie/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/cookie/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/core-util-is/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/core-util-is/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/core-util-is/float.patch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/core-util-is/lib/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/core-util-is/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/core-util-is/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/create-server/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/create-server/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/create-server/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/create-server/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/cross-spawn-async/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/cross-spawn-async/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/cross-spawn-async/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/cross-spawn-async/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/cross-spawn-async/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/cross-spawn-async/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/cross-spawn-async/appveyor.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/cross-spawn-async/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/cross-spawn-async/lib/enoent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/cross-spawn-async/lib/parse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/cross-spawn-async/lib/resolveCommand.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/cross-spawn-async/lib/util/mixIn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/cross-spawn-async/node_modules/.bin/which" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/cross-spawn-async/node_modules/.bin/which.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/cross-spawn-async/node_modules/which/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/cross-spawn-async/node_modules/which/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/cross-spawn-async/node_modules/which/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/cross-spawn-async/node_modules/which/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/cross-spawn-async/node_modules/which/bin/which" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/cross-spawn-async/node_modules/which/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/cross-spawn-async/node_modules/which/test/basic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/cross-spawn-async/node_modules/which/test/bin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/cross-spawn-async/node_modules/which/test/windows.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/cross-spawn-async/node_modules/which/which.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/cross-spawn-async/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/cross-spawn/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/cross-spawn/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/cross-spawn/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/cross-spawn/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/cross-spawn/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/cross-spawn/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/cross-spawn/appveyor.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/cross-spawn/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/cross-spawn/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/cycle/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/cycle/cycle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/cycle/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/dargs/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/dargs/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/dargs/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/dargs/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/debug/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/debug/debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/debug/lib/debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/debug/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/deep-eql/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/deep-eql/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/deep-eql/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/deep-eql/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/deep-eql/karma.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/deep-eql/lib/eql.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/deep-eql/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/demolish/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/demolish/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/demolish/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/diff/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/diff/diff.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/diff/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/emits/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/emits/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/emits/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/enabled/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/enabled/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/enabled/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/enabled/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/enabled/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/enabled/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/enabled/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/env-variable/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/env-variable/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/env-variable/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/escape-html/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/escape-html/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/escape-html/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/escape-html/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/escape-html/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/escape-html/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/escape-string-regexp/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/escape-string-regexp/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/escape-string-regexp/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/escape-string-regexp/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/express/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/express/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/express/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/express/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/express/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/express/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/express/lib/application.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/express/lib/express.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/express/lib/middleware/init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/express/lib/middleware/query.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/express/lib/request.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/express/lib/response.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/express/lib/router/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/express/lib/router/layer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/express/lib/router/route.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/express/lib/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/express/lib/view.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/express/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/extendible/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/extendible/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/extendible/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/extendible/example/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/extendible/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/extendible/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/extendible/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/eyes/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/eyes/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/eyes/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/eyes/lib/eyes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/eyes/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/eyes/test/eyes-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/failing-code/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/failing-code/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/failing-code/example.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/failing-code/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/failing-code/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/failing-line/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/failing-line/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/failing-line/example.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/failing-line/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/failing-line/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/fn.name/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/fn.name/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/fn.name/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/fn.name/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/fn.name/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/fn.name/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/format-text/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/format-text/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/format-text/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/format-text/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/format-text/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/forwarded-for/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/forwarded-for/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/forwarded-for/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/forwarded-for/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/forwarded-for/middleware.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/forwarded-for/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/forwarded-for/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/fresh/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/fresh/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/fresh/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/fresh/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/fresh/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/fresh/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/fusing/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/fusing/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/fusing/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/fusing/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/fusing/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/fusing/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/grunt-contrib-sass/CHANGELOG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/grunt-contrib-sass/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/grunt-contrib-sass/node_modules/async/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/grunt-contrib-sass/node_modules/async/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/grunt-contrib-sass/node_modules/async/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/grunt-contrib-sass/node_modules/async/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/grunt-contrib-sass/node_modules/async/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/grunt-contrib-sass/node_modules/async/lib/async.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/grunt-contrib-sass/node_modules/async/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/grunt-contrib-sass/node_modules/async/support/sync-package-managers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/grunt-contrib-sass/node_modules/cross-spawn/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/grunt-contrib-sass/node_modules/cross-spawn/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/grunt-contrib-sass/node_modules/cross-spawn/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/grunt-contrib-sass/node_modules/cross-spawn/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/grunt-contrib-sass/node_modules/cross-spawn/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/grunt-contrib-sass/node_modules/cross-spawn/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/grunt-contrib-sass/node_modules/cross-spawn/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/grunt-contrib-sass/node_modules/cross-spawn/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/grunt-contrib-sass/node_modules/lru-cache/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/grunt-contrib-sass/node_modules/lru-cache/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/grunt-contrib-sass/node_modules/lru-cache/CONTRIBUTORS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/grunt-contrib-sass/node_modules/lru-cache/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/grunt-contrib-sass/node_modules/lru-cache/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/grunt-contrib-sass/node_modules/lru-cache/lib/lru-cache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/grunt-contrib-sass/node_modules/lru-cache/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/grunt-contrib-sass/node_modules/lru-cache/test/basic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/grunt-contrib-sass/node_modules/lru-cache/test/foreach.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/grunt-contrib-sass/node_modules/lru-cache/test/memory-leak.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/grunt-contrib-sass/node_modules/lru-cache/test/serialize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/grunt-contrib-sass/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/grunt-contrib-sass/tasks/lib/check.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/grunt-contrib-sass/tasks/sass.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/has-ansi/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/has-ansi/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/has-ansi/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/has-ansi/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/inherits/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/inherits/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/inherits/inherits.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/inherits/inherits_browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/inherits/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/inherits/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/is-absolute/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/is-absolute/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/is-absolute/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/is-absolute/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/is-node/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/is-node/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/is-node/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/is-node/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/is-relative/LICENSE-MIT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/is-relative/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/is-relative/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/is-relative/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/isarray/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/isarray/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/isarray/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/isarray/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/isarray/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/isarray/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/isarray/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/isarray/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/isexe/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/isexe/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/isexe/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/isexe/access.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/isexe/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/isexe/mode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/isexe/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/isexe/test/basic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/isexe/windows.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/isstream/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/isstream/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/isstream/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/isstream/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/isstream/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/isstream/isstream.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/isstream/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/isstream/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/kuler/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/kuler/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/kuler/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/kuler/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/kuler/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/left-pad/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/left-pad/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/left-pad/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/left-pad/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/load/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/load/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/load/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/load/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/load/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/load/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/load/test/fixtures/file.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/load/test/fixtures/file2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/load/test/fixtures/file3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/load/test/fixtures/globals.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/load/test/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/lru-cache/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/lru-cache/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/lru-cache/lib/lru-cache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/lru-cache/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/merge-descriptors/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/merge-descriptors/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/merge-descriptors/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/merge-descriptors/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/merge-descriptors/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/methods/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/methods/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/methods/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/methods/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/methods/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/methods/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/methods/test/methods.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/millisecond/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/millisecond/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/millisecond/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/millisecond/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/millisecond/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/millisecond/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/millisecond/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/mime/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/mime/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/mime/mime.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/mime/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/mime/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/mime/types/mime.types" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/mime/types/node.types" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/negotiator/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/negotiator/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/negotiator/lib/charset.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/negotiator/lib/encoding.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/negotiator/lib/language.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/negotiator/lib/mediaType.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/negotiator/lib/negotiator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/negotiator/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/number-is-nan/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/number-is-nan/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/number-is-nan/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/number-is-nan/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/object-inspect/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/object-inspect/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/object-inspect/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/object-inspect/example/all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/object-inspect/example/circular.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/object-inspect/example/fn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/object-inspect/example/inspect.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/object-inspect/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/object-inspect/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/object-inspect/readme.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/object-inspect/test/browser/dom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/object-inspect/test/circular.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/object-inspect/test/deep.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/object-inspect/test/element.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/object-inspect/test/err.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/object-inspect/test/fn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/object-inspect/test/has.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/object-inspect/test/holes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/object-inspect/test/inspect.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/object-inspect/test/lowbyte.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/object-inspect/test/undef.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/object-inspect/test/values.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/one-time/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/one-time/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/one-time/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/one-time/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/one-time/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/one-time/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/one-time/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/os-shim/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/os-shim/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/os-shim/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/os-shim/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/os-shim/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/os-shim/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/os-shim/lib/os.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/os-shim/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/os-shim/test/osSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/parseurl/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/parseurl/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/parseurl/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/parseurl/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/path-to-regexp/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/path-to-regexp/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/path-to-regexp/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/path-to-regexp/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/path-to-regexp/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/path-to-regexp/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/path-to-regexp/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/pathval/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/pathval/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/pathval/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/pathval/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/pathval/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/pathval/hydro.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/pathval/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/pathval/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/pkginfo/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/pkginfo/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/pkginfo/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/pkginfo/docs/docco.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/pkginfo/docs/pkginfo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/pkginfo/examples/all-properties.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/pkginfo/examples/array-argument.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/pkginfo/examples/multiple-properties.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/pkginfo/examples/object-argument.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/pkginfo/examples/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/pkginfo/examples/single-property.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/pkginfo/examples/subdir/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/pkginfo/examples/target-dir.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/pkginfo/lib/pkginfo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/pkginfo/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/pkginfo/test/pkginfo-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/examples/browser/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/examples/browser/plates.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/lib/plates.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/api-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/browser.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/partial-1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-1.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-1.out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-10.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-10.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-10.out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-11.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-11.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-11.out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-12.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-12.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-12.out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-13.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-13.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-13.out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-14.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-14.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-14.out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-15.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-15.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-15.out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-16.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-16.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-16.out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-17.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-17.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-17.out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-18.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-18.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-18.out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-19.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-19.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-19.out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-2.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-2.out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-20.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-20.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-20.out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-21.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-21.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-21.out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-22.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-22.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-22.out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-23.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-23.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-23.out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-24.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-24.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-24.out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-25.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-25.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-25.out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-26.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-26.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-26.out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-27.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-27.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-27.out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-28.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-28.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-28.out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-29.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-29.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-29.out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-3.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-3.out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-30.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-30.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-30.out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-31.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-31.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-31.out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-32.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-32.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-32.out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-34.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-34.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-34.out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-35.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-35.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-35.out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-36.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-36.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-36.out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-37.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-37.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-37.out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-38.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-38.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-38.out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-39.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-39.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-39.out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-4.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-4.out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-40.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-40.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-40.out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-41.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-41.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-41.out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-42.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-42.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-42.out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-43.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-43.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-43.out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-5.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-5.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-5.out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-6.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-6.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-6.out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-7.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-7.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-7.out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-8.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-8.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-8.out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-9.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-9.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/fixtures/test-9.out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/match-closing-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/plates/test/perf-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/pre-commit/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/pre-commit/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/pre-commit/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/pre-commit/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/pre-commit/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/pre-commit/appveyor.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/pre-commit/hook" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/pre-commit/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/pre-commit/install.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/pre-commit/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/pre-commit/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/pre-commit/uninstall.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/predefine/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/predefine/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/predefine/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/predefine/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/predefine/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/predefine/test/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/predefine/test/mocha.opts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/prettify-error/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/prettify-error/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/prettify-error/example.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/prettify-error/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/prettify-error/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/primus/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/primus/dist/primus.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/primus/errors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/primus/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/primus/middleware/access-control.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/primus/middleware/authorization.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/primus/middleware/error.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/primus/middleware/forwarded.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/primus/middleware/no-cache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/primus/middleware/primus.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/primus/middleware/spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTMLAcademy_Advanced_2015/Barbershop/node_modules/primus/middleware/xss.js" />
+    </list>
+    <ignored path="KovalchukBohdan.github.io.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="KovalchukBohdan.github.io" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KovalchukBohdan.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/HTMLAcademy_Advanced_2015" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce6d8a3f-fa34-40b3-bce3-77b555810362" name="Default" comment="" />
+      <created>1458673887282</created>
+      <option name="number" value="Default" />
+      <updated>1458673887282</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>
