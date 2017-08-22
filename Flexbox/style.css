@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+}
+section .row {
+  background: #4c4c4c;
+  min-height: 100vh;
+}
+section .row.clearfix:after {
+  content: '';
+  display: table;
+  clear: both;
+}
+section .row a {
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+  color: #fff;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 20px;
+  text-align: center;
+}
+/* Default. Old styles */
+.column .person {
+  width: 19%;
+  display: inline-block;
+}
+.column .person img {
+  width: 100%;
+}
+.column- {
+  /* Flex container (Parent) */
+  display: flex;
+  /* flex-direction */
+  flex-direction: row;
+  /* flex-wrap */
+  flex-wrap: nowrap;
+  /* align-items */
+  align-items: flex-start;
+  /* justify-content */
+  justify-content: flex-start;
+  /* align-content */
+  align-content: flex-start;
+}
+.column- .person {
+  /* Flex item (Children) */
+  align-items: center;
+}
+.column- .person img {
+  width: 100%;
+}
+/* Cards */
