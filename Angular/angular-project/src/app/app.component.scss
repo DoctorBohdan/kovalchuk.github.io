@@ -1,0 +1,10 @@
+.mat-toolbar-row {
+  justify-content: space-between;
+}
+
+.icon__link {
+  outline: none;
+  &:hover {
+    cursor: pointer;
+  }
+}

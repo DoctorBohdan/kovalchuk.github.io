@@ -1,10 +1,16 @@
 <md-toolbar color="primary">
-  <button md-button [mdMenuTriggerFor]="menu">Menu</button>
+  
+  <md-icon class="icon__link" routerLink="/home" routerLinkActive="active">home</md-icon>
+  <button md-icon-button [mdMenuTriggerFor]="menu">
+    <md-icon>more_vert</md-icon>
+  </button>
   <md-menu #menu="mdMenu">
-    <button md-menu-item routerLink="/hello" routerLinkActive="active">Lesson 1</button>
-    <button md-menu-item routerLink="/table" routerLinkActive="active">Lesson 2</button>
+    <button md-menu-item routerLink="/hello" routerLinkActive="active">Hello List</button>
+    <button md-menu-item routerLink="/table" routerLinkActive="active">My Table</button>
   </md-menu>
   ITVDN Angular 2 Essential
+  <md-icon class="icon__link" routerLink="/admin" routerLinkActive="active">account_circle</md-icon>
+
 </md-toolbar>
 
 <div>

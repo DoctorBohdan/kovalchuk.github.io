@@ -1,0 +1,25 @@
+<td>
+  <md-input-container>
+    <input mdInput #id placeholder="Id" [(ngModel)]="newId">
+  </md-input-container>
+</td>
+<td>
+  <md-input-container>
+    <input mdInput #name placeholder="Name" [(ngModel)]="newName">
+  </md-input-container>
+</td>
+<td>
+  <md-input-container>
+    <input mdInput #price placeholder="Price" [(ngModel)]="newPrice">
+  </md-input-container>
+</td>
+<td>
+  <md-select placeholder="Category" [(ngModel)]="newCategory">
+    <md-option *ngFor="let category of categories" [value]="category">
+      {{ category }}
+    </md-option>
+  </md-select>
+</td>
+<td>
+  <button (click)="addData(newValue)" md-button>Add</button>
+</td>
