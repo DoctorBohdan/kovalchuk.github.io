@@ -1,0 +1,12 @@
+<md-toolbar color="primary">
+  <button md-button [mdMenuTriggerFor]="menu">Menu</button>
+  <md-menu #menu="mdMenu">
+    <button md-menu-item routerLink="/hello" routerLinkActive="active">Lesson 1</button>
+    <button md-menu-item routerLink="/table" routerLinkActive="active">Lesson 2</button>
+  </md-menu>
+  ITVDN Angular 2 Essential
+</md-toolbar>
+
+<div>
+  <router-outlet></router-outlet>
+</div>

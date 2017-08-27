@@ -1,0 +1,60 @@
+<md-card>
+  <table>
+    <tr>
+      <th>Id</th>
+      <th>Name</th>
+      <th>Price</th>
+      <th>
+        <md-select (change)="filterCategoryData($event.value)" placeholder="Category" [(ngModel)]="defCategory">
+          <md-option *ngFor="let category of categories" [value]="category">
+            {{ category }}
+          </md-option>
+        </md-select>
+      </th>
+    </tr>
+
+    <tr *ngFor="let product of productsArray">
+      <td>
+        {{ product.id }}
+      </td>
+      <td>
+        {{ product.name }}
+      </td>
+      <td [class.priceHigh]="product.price > 500">
+        {{ product.price }}
+      </td>
+      <td>
+        {{ product.category }}
+      </td>
+      <td>
+        <button (click)='removeData(product)' md-button>Delete</button>
+      </td>
+    </tr>
+
+    <tr>
+      <td>
+        <label for="newValueId">Id</label>
+        <input type="text" id="newValueId" [(ngModel)]="newId">
+      </td>
+      <td>
+        <label for="newValueName">Name</label>
+        <input type="text" id="newValueName" [(ngModel)]="newName">
+      </td>
+      <td>
+        <label for="newValuePrice">Price</label>
+        <input type="text" id="newValuePrice" [(ngModel)]="newPrice">
+      </td>
+      <td>
+        <md-select placeholder="Category" [(ngModel)]="newCategory">
+          <md-option *ngFor="let category of categories" [value]="category">
+            {{ category }}
+          </md-option>
+        </md-select>
+      </td>
+      <td>
+        <button (click)="addData(newValue)" md-button>Add</button>
+      </td>
+    </tr>
+
+  </table>
+</md-card>
