@@ -1,0 +1,913 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Berinaprocat</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="css/reset.css">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href="css/slide1.css">
+</head>
+<body>
+
+<!-- Header -->
+
+	<header class="header">
+		<div class="header-top">
+			<div class="header-top__inner inner flex-row">
+				<div class="header__mail flex-row">
+					<img src="img/icon-letter.png" alt="letter">
+					<a href="#" title="mail to">berinaprokat24@bk.ru</a>
+				</div>
+				<div class="header__search">
+					<form>
+						<input class="search__input" type="text" name="search" value="" placeholder="Найти оборудование"><button class="search__button" type="submit"><img class="search__img" src="img/magnifier-tool.png" alt=""></button>
+					</form>
+				</div>
+				<div class="header-top__wrapper flex-row">
+					<div class="header-top__lang">
+						<a href="#" title=""><span class="lang__ru lang__ru_active">RU</span></a>
+						<a href="#" title=""><span class="lang__en">EN</span></a>
+					</div>
+					<div class="header__registr flex-row">
+						<img src="img/icon-user.png" alt="user">
+						<span class="registr"><a href="#" class="registr__entrance">Вход</a> / <a href="#" class="registr__registration">Регистрация</a></span>
+					</div>
+				</div>
+				<a href="#" title="" class="header__basket_ref">
+					<div class="header__basket hexagon-big__logo">
+						<p class="basket__count">0</p>
+						<p class="basket__name">Корзина</p>
+					</div>
+				</a>
+				<div class="basket__cart">
+					<a href="#basket__quick-apl" title="">
+						<div class="basket__quick basket__quick_top flex">
+							<p>Быстрая форма заявки</p>
+						</div>
+					</a>
+					<a href="#" title="">
+						<div class="basket__quick basket__quick_bottom flex">
+							<p>Перейти для оформления заказа</p>
+						</div>
+					</a>
+				</div>
+				<div id="basket__quick-apl" class="quick-application-form">
+					<div class="quick-application-form__wrapper">
+						<div class="quick-application-form__inner">
+							<h2 class="quick-application-form__caption">БЫСТРАЯ ФОРМА ЗАЯВКИ</h2>
+							<div class="quick-application-form__line form__line"></div>
+						</div>
+						<p class="quick-application-form__paragr1">Отправьте нам свои данные и мы свяжемся с Вами</p>
+						<a href="#quick-application-form__close" title=""><div class="quick-application-form__close_close"><img src="img/icon-close.png" alt=""></div></a>
+						<form>
+							<p class="quick-application-form__radio">
+								<input type="radio" class="radio" id="radio__entity-1" name="entity" value=""><label for="radio__entity-1" class="quick-application-form__label">Физическое лицо</label><input type="radio" class="radio" id="radio__entity-2" name="entity" value=""><label for="radio__entity-2" class="quick-application-form__label">Юридическое лицо</label>
+							</p>
+							<input type="text" name="" value="" placeholder="Ваше имя" class="quick-application-form__input">
+							<input type="tel" name="" value="" placeholder="Ваш телефон" class="quick-application-form__input">
+							<input type="email" name="" value="" placeholder="Ваш Email" class="quick-application-form__input">
+							<p class="quick-application-form__conditions">Нажимая кнопку «Отправить», Вы даете свое согласие на обработку своих персональных данных, в соответствии с Федеральным законом от 27.07.2006 года №152-Ф3 «О персональных данных», на условиях и для целей, определенных в Согласии на обработку персональных данных.</p>
+							<button class="quick-application-form__button button__color" type="submit">
+								<p>отправить</p>
+							</button>
+						</form>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="header-bottom">
+			<div class="header-bottom__inner inner flex-row">
+				<a href="#" title="">
+					<img src="img/logo.png" alt=""></img>
+				</a>
+				<div class="phone__wrapper flex-column">
+					<div class="phone-number flex-row">
+						<div class="phone-number__logo hexagon-small__logo">
+							<img src="img/icon-phone.png" alt="">
+						</div>
+						<div class="phone-number">
+							<p>+7 (499) 390-31-91</p>
+							<p>+7 (985) 887-44-20</p>
+						</div>
+					</div>
+					<a href="#callback" title="">
+						<div class="phone-button button__color">
+							<p>заказать звонок</p>
+						</div>
+					</a>
+					<div id="callback" class="header__callback">
+						<div class="header__callback_inner">
+							<div class="callback__wrapper">
+								<a href="#callback__close" title=""><div class="header__callback_close"><img src="img/icon-close.png" alt=""></div></a>
+								<form>
+									<input type="text" name="" value="" placeholder="Ваше имя" class="callback__input">
+									<input type="tel" name="" value="" placeholder="Ваш телефон" class="callback__input">
+									<p class="callback__conditions">Нажимая кнопку «Отправить», Вы даете свое согласие на обработку своих персональных данных, в соответствии с Федеральным законом от 27.07.2006 года №152-Ф3 «О персональных данных», на условиях и для целей, определенных в Согласии на обработку персональных данных.</p>
+									<button class="callback__button button__color" type="submit">
+										<p>отправить</p>
+									</button>
+								</form>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="adress-wrapper flex-column">
+					<div class="header__adress flex-row">
+						<div class="adress__logo hexagon-small__logo">
+							<img src="img/icon-adress.png" alt="">
+						</div>
+						<p>
+							Адрес:<br>121471 Москва, Рябиновая улица 4Б
+						</p>
+					</div>
+					<div class="header__watch flex-row">
+						<div class="watch__logo hexagon-small__logo">
+							<img src="img/icon-watch.png" alt="">
+						</div>
+						<p>
+							Часы работы:<br>с 7:00 до 23:00 (без выходных)
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+
+<!-- Header navigation (Header menu NAV) -->
+
+		<div class="header-nav">
+			<div class="header-nav__inner inner flex-row">
+				<a href="#" title="" class="menu__button nav__menu"><img src="img/menu-button.svg" alt="menu" class="menu__button nav__menu"></a>
+				<nav class="header-nav__menu nav__menu flex-row">
+					<a href="#" class="menu__item">АРЕНДНЫЕ РЕШЕНИЯ<img src="img/arrow.svg" alt="" class="menu__arrow"></a>
+						<div class="menu__submenu rent__menu flex-row">
+							<div class="rent__wrapper">
+								<section class="rent__section">
+									<header class="rent__header">Бетонирование</header>
+									<article>
+										<p class="rent__item">Затирочные машины</p>
+										<p class="rent__item">Вибраторы по бетону</p>
+										<p class="rent__item">Виброрейки</p>
+										<p class="rent__item">Опалубка перекрытий</p>
+										<p class="rent__item">Прогрев бетона</p>
+										<p class="rent__item">Бетоносмеситель</p>
+										<p class="rent__item">Топпинг полов</p>
+									</article>
+								</section>
+								<section class="rent__section">
+									<header class="rent__header">Высотные работы</header>
+									<article>
+										<p class="rent__item">Вышка тура</p>
+										<p class="rent__item">Леса</p>
+										<p class="rent__item">Лестница</p>
+									</article>
+								</section>
+								<section class="rent__section">
+									<header class="rent__header">Бурение и сверление</header>
+									<article>
+										<p class="rent__item">Алмазное бурение</p>
+										<p class="rent__item">Бензобур</p>
+										<p class="rent__item">Перфоратор</p>
+									</article>
+								</section>
+								<section class="rent__section">
+									<header class="rent__header">Демонтаж и разрушение</header>
+									<article>
+										<p class="rent__item">Отбойный молоток</p>
+										<p class="rent__item">Сваезабивное</p>
+									</article>
+								</section>
+							</div>
+							<div class="rent__wrapper">
+								<section class="rent__section">
+									<header class="rent__header">Измерение</header>
+									<article>
+										<p class="rent__item">Все измерительные приборы</p>
+									</article>
+								</section>
+								<section class="rent__section">
+									<header class="rent__header">Клининговая техника</header>
+									<article>
+										<p class="rent__item">Пылесосы</p>
+										<p class="rent__item">Мойки</p>
+										<p class="rent__item">Пескоструйка</p>
+										<p class="rent__item">Прочистка канализации</p>
+									</article>
+								</section>
+								<section class="rent__section">
+									<header class="rent__header">Климатическое оборудование</header>
+									<article>
+										<p class="rent__item">Осушители воздуха</p>
+										<p class="rent__item">Опрессовочный насос</p>
+									</article>
+								</section>
+								<section class="rent__section">
+									<header class="rent__header">Шлифование</header>
+									<article>
+										<p class="rent__item">Мозаично шлифовальные машины</p>
+										<p class="rent__item">Паркетно шлифовальные машины</p>
+									</article>
+								</section>
+								<section class="rent__section">
+									<header class="rent__header">Уплотнение грунта</header>
+									<article>
+										<p class="rent__item">Виброплиты</p>
+										<p class="rent__item">Вибротрамбовки</p>
+									</article>
+								</section>
+							</div>
+							<div class="rent__wrapper">
+								<section class="rent__section">
+									<header class="rent__header">Отрезной инструмент и оборудование</header>
+									<article>
+										<p class="rent__item">Бензорезы</p>
+										<p class="rent__item">Нарезчики швов</p>
+										<p class="rent__item">Резчики кровли</p>
+										<p class="rent__item">Плиткорезы</p>
+									</article>
+								</section>
+								<section class="rent__section">
+									<header class="rent__header">Освещение и безопасность</header>
+									<article>
+										<p class="rent__item">Мачта ограждения</p>
+									</article>
+								</section>
+								<section class="rent__section">
+									<header class="rent__header">Металлообработка</header>
+									<article>
+										<p class="rent__item">Гибочные станки</p>
+										<p class="rent__item">Рубочные станки</p>
+									</article>
+								</section>
+								<section class="rent__section">
+									<header class="rent__header">Подача воздуха и пневмоинструмент</header>
+									<article>
+										<p class="rent__item">Компрессоры</p>
+										<p class="rent__item">Пневматический отбойный молоток</p>
+									</article>
+								</section>
+								<section class="rent__section">
+									<header class="rent__header">Хранение</header>
+									<article>
+										<p class="rent__item">Контейнеры</p>
+									</article>
+								</section>
+								<section class="rent__section">
+									<header class="rent__header">Сварочное оборудование</header>
+									<article>
+										<p class="rent__item">Газоэлектросварка</p>
+										<p class="rent__item">Полипропиленовая сварка</p>
+									</article>
+								</section>
+							</div>
+							<div class="rent__wrapper">
+								<section class="rent__section">
+									<header class="rent__header">Энергообеспечение</header>
+									<article>
+										<p class="rent__item">Бензогенераторы</p>
+									</article>
+								</section>
+								<section class="rent__section">
+									<header class="rent__header">Электроинструмент</header>
+									<article>
+										<p class="rent__item">Фен строительный</p>
+										<p class="rent__item">Штроборез</p>
+										<p class="rent__item">Кабель удлиннитель</p>
+										<p class="rent__item">Торчовочные пилы</p>
+										<p class="rent__item">Ультразвуковая ванна</p>
+									</article>
+								</section>
+								<section class="rent__section">
+									<header class="rent__header">Кровельные работы</header>
+									<article>
+										<p class="rent__item">Горелка для кровли</p>
+									</article>
+								</section>
+								<section class="rent__section">
+									<header class="rent__header">Насосы</header>
+									<article>
+										<p class="rent__item">Мотопомпы</p>
+									</article>
+								</section>
+								<section class="rent__section">
+									<header class="rent__header">Складская техника</header>
+									<article>
+										<p class="rent__item">Роклы</p>
+										<p class="rent__item">Штабелеры</p>
+									</article>
+								</section>
+								<section class="rent__section">
+									<header class="rent__header">Подача пара</header>
+									<article>
+										<p class="rent__item">Парогенераторы</p>
+									</article>
+								</section>
+								<section class="rent__section">
+									<header class="rent__header">Перевозка грузов</header>
+									<article>
+										<p class="rent__item">Прицепы</p>
+									</article>
+								</section>
+							</div>
+							<div class="menu__submenu-cover"></div>
+						</div>
+					<a href="#" class="menu__item">ОБОРУДОВАНИЕ<img src="img/arrow.svg" alt="" class="menu__arrow"></a>
+						<div class="menu__submenu equipment__menu flex-row">
+							<div class="equipment__wrapper">
+								<p class="equipment__item">Алмазное бурение</p>
+								<p class="equipment__item">Бензобур</p>
+								<p class="equipment__item">Бензогенератор</p>
+								<p class="equipment__item">Бензорез (стенорез)</p>
+								<p class="equipment__item">Бетоносмеситель</p>
+								<p class="equipment__item">Бытовки строительные</p>
+								<p class="equipment__item">Вибратор для бетона</p>
+								<p class="equipment__item">Виброплита (вибротрамбовка)</p>
+								<p class="equipment__item">Виброрейка</p>
+								<p class="equipment__item">Вышка тура</p>
+								<p class="equipment__item">Газовая сварка</p>
+								<p class="equipment__item">Грузовая тележка (рокла)</p>
+							</div>
+							<div class="equipment__wrapper">
+								<p class="equipment__item">Ёмкости</p>
+								<p class="equipment__item">Затирочная машина по бетону</p>
+								<p class="equipment__item">Измерительные приборы</p>
+								<p class="equipment__item">Кабель удлинитель</p>
+								<p class="equipment__item">Компрессор электрический</p>
+								<p class="equipment__item">Контейнер складской</p>
+								<p class="equipment__item">Кровельное оборудование</p>
+								<p class="equipment__item">Легковые прицепы</p>
+								<p class="equipment__item">Леса строительные</p>
+								<p class="equipment__item">Лестница</p>
+								<p class="equipment__item">Мойка высокого давления</p>
+								<p class="equipment__item">Мотопомпы</p>
+							</div>
+							<div class="equipment__wrapper">
+								<p class="equipment__item">Нарезчик швов</p>
+								<p class="equipment__item">Обработка арматуры</p>
+								<p class="equipment__item">Ограждения строительные</p>
+								<p class="equipment__item">Опалубка перекрытий</p>
+								<p class="equipment__item">Опрессовочный насос</p>
+								<p class="equipment__item">Осветительные мачты</p>
+								<p class="equipment__item">Осушитель воздуха</p>
+								<p class="equipment__item">Отбойный молоток</p>
+								<p class="equipment__item">Парогенератор</p>
+								<p class="equipment__item">Перфоратор</p>
+								<p class="equipment__item">Пескоструйные установки</p>
+								<p class="equipment__item">Плиткорез - камнерез</p>
+								<p class="equipment__item">Полипропиленовая сварка</p>
+								<p class="equipment__item">Прогрев бетона</p>
+							</div>
+							<div class="equipment__wrapper">
+								<p class="equipment__item">Прочистка канализации</p>
+								<p class="equipment__item">Пушка тепловая</p>
+								<p class="equipment__item">Пылесос строительный</p>
+								<p class="equipment__item">Сваезабивной инструмент</p>
+								<p class="equipment__item">Топпинг полов</p>
+								<p class="equipment__item">Торцовочные пилы</p>
+								<p class="equipment__item">Ультразвуковая ванна</p>
+								<p class="equipment__item">Фен строительный</p>
+								<p class="equipment__item">Шлифование бетона</p>
+								<p class="equipment__item">Шлифование паркета</p>
+								<p class="equipment__item">Штабелеры</p>
+								<p class="equipment__item">Штроборез (бороздодел)</p>
+								<p class="equipment__item">Электросварка</p>
+							</div>
+							<div class="menu__submenu-cover"></div>
+						</div>
+					<a href="#" class="menu__item">МАГАЗИН<img src="img/arrow.svg" alt="" class="menu__arrow"></a>
+						<div class="menu__submenu shop__menu flex-row">
+							<section class="shop__materials">
+								<header class="shop__header">Расходные материалы</header>
+								<article>
+									<p class="shop__item"><img src="img/shop__item1.png" alt="" class="shop__item_img"><span>Алмазные диски</span></p>
+									<p class="shop__item"><img src="img/shop__item2.png" alt="" class="shop__item_img"><span>Алмазные коронки</span></p>
+									<p class="shop__item"><img src="img/shop__item3.png" alt="" class="shop__item_img"><span>Шлифовальный инструмент</span></p>
+									<p class="shop__item"><img src="img/shop__item4.png" alt="" class="shop__item_img"><span>Кабельная продукция</span></p>
+									<p class="shop__item"><img src="img/shop__item5.png" alt="" class="shop__item_img"><span>Пылесборники (мешки)</span></p>
+									<p class="shop__item"><img src="img/shop__item6.png" alt="" class="shop__item_img"><span>Затирочные диски и лопасти</span></p>
+									<p class="shop__item"><img src="img/shop__item7.png" alt="" class="shop__item_img"><span>Комплектующие к лесам</span></p>
+									<p class="shop__item"><img src="img/shop__item8.png" alt="" class="shop__item_img"><span>Шланги компрессорные</span></p>
+									<p class="shop__item"><img src="img/shop__item9.png" alt="" class="shop__item_img"><span>Кровельные фрезы</span></p>
+								</article>
+							</section>
+							<section class="shop__equipment">
+								<header class="shop__header">Продажа оборудования</header>
+								<article>
+									<p class="shop__item"><img src="img/shop__item10.png" alt="" class="shop__item_img"><span>Виброплиты</span></p>
+									<p class="shop__item"><img src="img/shop__item11.png" alt="" class="shop__item_img"><span>Шлифовальные машины</span></p>
+									<p class="shop__item"><img src="img/shop__item12.png" alt="" class="shop__item_img"><span>Нарезчики швов</span></p>
+								</article>
+							</section>
+							<div class="menu__submenu-cover"></div>
+						</div>
+					<a href="#" class="menu__item">УСЛОВИЯ АРЕНДЫ</a>
+					<a href="#" class="menu__item">ДОСТАВКА</a>
+					<a href="#" class="menu__item">СЕРВИС</a>
+					<a href="#" class="menu__item">ПОМОЩЬ<img src="img/arrow.svg" alt="" class="menu__arrow"></a>
+						<div class="menu__submenu help__menu">
+							<section class="menu__help_wrapper">
+								<p class="help__item">О компании</p>
+								<p class="help__item">Полезные советы</p>
+								<p class="help__item">Претензии</p>
+							</section>
+							<div class="menu__submenu-cover"></div>
+						</div>
+					<a href="#" class="menu__item">КОНТАКТЫ</a>
+				</nav>
+			</div>
+		</div>
+	</header>
+
+<!-- Main -->
+
+	<main class="main">
+
+<!-- Slider -->
+
+		<div class="slider">
+			<div class="slider__background-image"></div>
+			<div class="slider__inner inner flex-column">
+				<section class="slider__section">
+					<article class="sider__article">
+						<h2 class="slider__header">
+							Опалубка перекрытий
+						</h2>
+						<p class="slider__content">
+							Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet recusandae, rem? Incidunt in sit similique voluptatibus voluptas molestiae, deserunt maxime et sunt ab sed quam tempore. Minus ipsa illum ea nisi? Iure quo ad, amet sequi!
+						</p>
+						<footer class="slider__footer flex-row">
+							<a href="#" title="">
+								<div class="slider__button button__color">
+									<p>подробнее</p>
+								</div>
+							</a>
+							<a href="#" title="">
+								<div class="button__transparent">
+									<img src="img/icon-calc.png" alt="">
+									<p>расчитать</p>
+								</div>
+							</a>
+						</footer>
+					</article>
+					<div class="slider__block-button flex-row">
+						<a href="#">
+							<div class="block-button__item"></div>
+						</a>
+						<a href="#">
+							<div class="block-button__item block-button__item_active"></div>
+						</a>
+						<a href="#">
+							<div class="block-button__item"></div>
+						</a>
+						<a href="#">
+							<div class="block-button__item"></div>
+						</a>
+						<a href="#">
+							<div class="block-button__item"></div>
+						</a>
+					</div>
+				</section>
+				<aside class="slider__aside">
+					<div class="slider__wrapper-1 slider__wrapper flex">
+						<img src="img/slider__img-1.jpg" alt="" class="slider__img-1 slider__img">
+					</div>
+					<div class="slider__wrapper-2 slider__wrapper flex">
+						<img src="img/slider__img-2.jpg" alt="" class="slider__img-2 slider__img">
+					</div>
+					<div class="slider__wrapper-3 slider__wrapper flex">
+						<img src="img/slider__img-3.jpg" alt="" class="slider__img-3 slider__img">
+					</div>
+					<div class="slider__wrapper-4 slider__wrapper flex">
+						<img src="img/slider__img-4.jpg" alt="" class="slider__img-4 slider__img">
+					</div>
+					<div class="slider__wrapper-5 slider__wrapper flex">
+						<img src="img/slider__img-5.jpg" alt="" class="slider__img-5 slider__img">
+					</div>
+					<div class="slider__wrapper-6 slider__wrapper flex">
+						<img src="img/slider__img-6.jpg" alt="" class="slider__img-6 slider__img">
+					</div>
+					<div class="slider__wrapper-7 slider__wrapper flex">
+						<img src="img/slider__img-7.jpg" alt="" class="slider__img-7 slider__img">
+					</div>
+				</aside>
+			</div>
+		</div>
+
+<!-- Help in getting started -->
+
+		<div class="help-start">
+			<div class="help-start__inner inner flex-row">
+				<aside class="help__aside">
+					<img src="img/help.png" alt="">
+				</aside>
+				<section class="help__section flex-column">
+					<header class="help__header caption__section">
+						<h2 class="caption__section-text">Не знаете с чего начать или вам нужна наша помощь?</h2>
+					</header>
+					<p>Мы поможем Вам разобраться с выбором необходимого строительного оборудования и ответим на интересующие Вас вопросы в кратчайшие сроки!</p>
+					<p>Посетите разделы сайта, указанные ниже, которые созданы для Вашего удобства.</p>
+					<div class="help__buttons flex-row">
+						<a href="#">
+							<div class="help__button button__color">
+								<p>полезные статьи</p>
+							</div>
+						</a>
+						<a href="#">
+							<div class="help__button button__color">
+								<p>контакты</p>
+							</div>
+						</a>
+						<a href="#">
+							<div class="help__button button__color">
+								<p>претензии</p>
+							</div>
+						</a>
+					</div>
+				</section>
+			</div>
+		</div>
+
+<!-- New offers -->
+
+		<div class="new-offers">
+			<div class="new-offers__inner inner">
+				<section class="new-offers__section flex-column">
+					<header class="new-offers__header caption__section">
+						<h2 class="caption__section-text">Новые предложения</h2>
+					</header>
+					<div class="new-offers__gallery flex-row">
+						<div class="new-offers__item flex-column">
+							<div class="new-offers__img">
+								<img src="img/new-offers__item1.jpg" alt="" class="offers__img">
+								<a href="#" title="" class="new-offers__link new-offers__rur">
+									<div class="new-offers__button flex">
+										<img src="img/icon-new-offers-ru.png" alt="" class="new-offers__iconrur">
+									</div>
+								</a>
+								<div class="new-offers__pay flex-column">
+									<p><span class="color__orange">Стоимость:</span></p>
+									<p>1 - 5 суток = 2 000 руб.</p>
+									<p>6 - 16 суток = 1 900 руб.</p>
+									<p>17 и более = 1 800 руб.</p>
+									<div class="new-offers__allpay flex-column">
+										<p><span class="color__orange">Сумма залога</span> = 50 000 руб.</p>
+										<p><span class="color__orange">Полная стоимость</span> = 160 000 руб.</p>
+									</div>
+								</div>
+								<a href="#" title="" class="new-offers__link new-offers__basket">
+									<div class="new-offers__button flex">
+										<img src="img/icon-new-offers-basket.png" alt="">
+									</div>
+								</a>
+							</div>
+							<div class="new-offers__item-content flex-column">
+								<p>Резчик швов (швонарезчик)</p>
+								<p>Splitstone CS 2413</p>
+							</div>
+							<a href="#" title="">
+								<div class="new-offers__itembutton button__color">
+									<p>подробнее</p>
+								</div>
+							</a>
+						</div>
+						<div class="new-offers__item flex-column">
+							<div class="new-offers__img">
+								<img src="img/new-offers__item2.jpg" alt="" class="offers__img">
+								<a href="#" title="" class="new-offers__link new-offers__rur">
+									<div class="new-offers__button flex">
+										<img src="img/icon-new-offers-ru.png" alt="" class="new-offers__iconrur">
+									</div>
+								</a>
+								<div class="new-offers__pay flex-column">
+									<p><span class="color__orange">Стоимость:</span></p>
+									<p>1 - 5 суток = 2 000 руб.</p>
+									<p>6 - 16 суток = 1 900 руб.</p>
+									<p>17 и более = 1 800 руб.</p>
+									<div class="new-offers__allpay flex-column">
+										<p><span class="color__orange">Сумма залога</span> = 50 000 руб.</p>
+										<p><span class="color__orange">Полная стоимость</span> = 160 000 руб.</p>
+									</div>
+								</div>
+								<a href="#" title="" class="new-offers__link new-offers__basket">
+									<div class="new-offers__button flex">
+										<img src="img/icon-new-offers-basket.png" alt="">
+									</div>
+								</a>
+							</div>
+							<div class="new-offers__item-content flex-column">
+								<p>Резчик швов (швонарезчик)</p>
+								<p>Splitstone CS 2413</p>
+							</div>
+							<a href="#" title="">
+								<div class="new-offers__itembutton button__color">
+									<p>подробнее</p>
+								</div>
+							</a>
+						</div>
+						<div class="new-offers__item flex-column">
+							<div class="new-offers__img">
+								<img src="img/new-offers__item3.jpg" alt="" class="offers__img">
+								<a href="#" title="" class="new-offers__link new-offers__rur">
+									<div class="new-offers__button flex">
+										<img src="img/icon-new-offers-ru.png" alt="" class="new-offers__iconrur">
+									</div>
+								</a>
+								<div class="new-offers__pay flex-column">
+									<p><span class="color__orange">Стоимость:</span></p>
+									<p>1 - 5 суток = 2 000 руб.</p>
+									<p>6 - 16 суток = 1 900 руб.</p>
+									<p>17 и более = 1 800 руб.</p>
+									<div class="new-offers__allpay flex-column">
+										<p><span class="color__orange">Сумма залога</span> = 50 000 руб.</p>
+										<p><span class="color__orange">Полная стоимость</span> = 160 000 руб.</p>
+									</div>
+								</div>
+								<a href="#" title="" class="new-offers__link new-offers__basket">
+									<div class="new-offers__button flex">
+										<img src="img/icon-new-offers-basket.png" alt="">
+									</div>
+								</a>
+							</div>
+							<div class="new-offers__item-content flex-column">
+								<p>Резчик швов (швонарезчик)</p>
+								<p>Splitstone CS 2413</p>
+							</div>
+							<a href="#" title="">
+								<div class="new-offers__itembutton button__color">
+									<p>подробнее</p>
+								</div>
+							</a>
+						</div>
+						<div class="new-offers__item flex-column">
+							<div class="new-offers__img">
+								<img src="img/new-offers__item4.jpg" alt="" class="offers__img">
+								<a href="#" title="" class="new-offers__link new-offers__rur">
+									<div class="new-offers__button flex">
+										<img src="img/icon-new-offers-ru.png" alt="" class="new-offers__iconrur">
+									</div>
+								</a>
+								<div class="new-offers__pay flex-column">
+									<p><span class="color__orange">Стоимость:</span></p>
+									<p>1 - 5 суток = 2 000 руб.</p>
+									<p>6 - 16 суток = 1 900 руб.</p>
+									<p>17 и более = 1 800 руб.</p>
+									<div class="new-offers__allpay flex-column">
+										<p><span class="color__orange">Сумма залога</span> = 50 000 руб.</p>
+										<p><span class="color__orange">Полная стоимость</span> = 160 000 руб.</p>
+									</div>
+								</div>
+								<a href="#" title="" class="new-offers__link new-offers__basket">
+									<div class="new-offers__button flex">
+										<img src="img/icon-new-offers-basket.png" alt="">
+									</div>
+								</a>
+							</div>
+							<div class="new-offers__item-content flex-column">
+								<p>Резчик швов (швонарезчик)</p>
+								<p>Splitstone CS 2413</p>
+							</div>
+							<a href="#" title="">
+								<div class="new-offers__itembutton button__color">
+									<p>подробнее</p>
+								</div>
+							</a>
+						</div>
+					</div>
+				</section>
+			</div>
+		</div>
+
+<!-- About Us -->
+
+		<div class="about-us">
+			<div class="about-us__inner inner">
+				<section class="about-us__section flex-column">
+					<header class="about-us__header caption__section">
+						<h2 class="about-us__header-text caption__section-text">Компания "Бери на прокат 24" сдает в аренду оборудование, которое находится в собственности</h2>
+					</header>
+					<p>Мы не работаем на правах субаренды, поэтому имеем возможность подстроиться под любого клиента.</p>
+					<p>Нам не нужно согласовывать условия аренды, решения принимаем самостоятельно и способны оперативно решать любые вопросы.</p>
+					<p>Склады с оборудованием находятся на одной територии с офисом компании, клиенту не нужно далеко ехать, для получения инструмента или оснащения.</p>
+				</section>
+			</div>
+		</div>
+
+<!-- Interesting articles -->
+
+		<div class="interesting-articles">
+			<div class="interesting-articles__inner inner">
+				<section class="interesting-articles__section flex-column">
+					<header class="interesting-articles__header caption__section">
+						<h2 class="caption__section-text">Интересные статьи</h2>
+					</header>
+					<div class="interesting-articles__content flex-row">
+						<div class="interesting-articles__item">
+							<img src="img/interesting-articles__item1.jpeg" alt="" class="interesting-articles__img">
+							<div class="interesting-articles-form__line form__line"></div>
+							<a href="#" class="interesting-articles-form__link"><p>Как начинающему оператору выбрать компанию для аренды</p></a>
+						</div>
+						<div class="interesting-articles__item">
+							<img src="img/interesting-articles__item2.jpeg" alt="" class="interesting-articles__img">
+							<div class="interesting-articles-form__line form__line"></div>
+							<a href="#" class="interesting-articles-form__link"><p>Точно ли вам нужна аренда шлифовальной машины</p></a>
+						</div>
+						<div class="interesting-articles__item">
+							<img src="img/interesting-articles__item3.jpeg" alt="" class="interesting-articles__img">
+							<div class="interesting-articles-form__line form__line"></div>
+							<a href="#" class="interesting-articles-form__link"><p>Как начинающему оператору выбрать компанию для аренды</p></a>
+						</div>
+						<div class="interesting-articles__item">
+							<img src="img/interesting-articles__item4.jpeg" alt="" class="interesting-articles__img">
+							<div class="interesting-articles-form__line form__line"></div>
+							<a href="#" class="interesting-articles-form__link"><p>Точно ли вам нужна аренда шлифовальной машины</p></a>
+						</div>
+					</div>
+				</section>
+			</div>
+		</div>
+
+<!-- Our advantages -->
+
+		<div class="our-advantages">
+			<div class="our-advantages__inner inner">
+				<section class="our-advantages__section flex-column">
+					<header class="our-advantages__header caption__section">
+						<h2 class="our-advantages__header-text caption__section-text">Наши преимущества</h2>
+					</header>
+					<div class="our-advantages__content flex-row">
+						<div class="our-advantages__item flex-column">
+							<img src="img/icon-our-advantages-1.png" alt="">
+							<div class="our-advantages__line"></div>
+							<p class="our-advantages__item-text">
+								Мы предлагаем <a href="#" title="" class="our-advantages__item-text_bold">строительный инстумент в аренду</a> в широком ассортименте. Есть возможность выбора, ориентируясь не только на характеристики прибора, но и на производителя.
+							</p>
+						</div>
+						<div class="our-advantages__item flex-column">
+							<img src="img/icon-our-advantages-2.png" alt="">
+							<div class="our-advantages__line"></div>
+							<p class="our-advantages__item-text">
+								Предлагая <a href="#" title="" class="our-advantages__item-text_bold">строительное оборудование в аренду</a>, мы заинтересованы в успешной раоте клиента.
+							</p>
+						</div>
+						<div class="our-advantages__item flex-column">
+							<img src="img/icon-our-advantages-3.png" alt="">
+							<div class="our-advantages__line"></div>
+							<p class="our-advantages__item-text">
+								Наши консультации помогут грамотно подобрать техническое средство, соответствующее поставленным задачам и пожеланиям заказчика.
+							</p>
+						</div>
+						<div class="our-advantages__item flex-column">
+							<img src="img/icon-our-advantages-4.png" alt="">
+							<div class="our-advantages__line"></div>
+							<p class="our-advantages__item-text">
+								Для постоянных крупных клиентов мы предлагаем особые условия сдачи строительного инструмента в прокат. Индивидуальные условия прописываются в договор аренды.
+							</p>
+						</div>
+						<div class="our-advantages__item flex-column">
+							<img src="img/icon-our-advantages-5.png" alt="">
+							<div class="our-advantages__line"></div>
+							<p class="our-advantages__item-text">
+								Сумма залога в нашей компании минимальна, а ценовая политика достаточно гибкая, чтобы найти взаимовыгодный вариант в каждом случае.
+							</p>
+						</div>
+						<div class="our-advantages__item flex-column">
+							<img src="img/icon-our-advantages-6.png" alt="">
+							<div class="our-advantages__line"></div>
+							<p class="our-advantages__item-text">
+								Мы регулярно обновляем свой парк предлагаемого в прокат оборудования. Наш инстумент всегда готов к работе, что позволяет избегать возникновения различных неожиданностей.
+							</p>
+						</div>
+						<div class="our-advantages__item flex-column">
+							<img src="img/icon-our-advantages-7.png" alt="">
+							<div class="our-advantages__line"></div>
+							<p class="our-advantages__item-text">
+								В случае наступления форс-мажорных обстоятельств мы можем предложить оперативное решение.
+							</p>
+						</div>
+					</div>
+				</section>
+			</div>
+		</div>
+
+<!-- Map -->
+
+		<script src='https://maps.googleapis.com/maps/api/js?v=3.exp'></script>
+		<div style='overflow:hidden;height:400px;width:100%;'>
+			<div id='gmap_canvas' style='height:400px;width:100%;'></div>
+			<style>#gmap_canvas img{max-width:none!important;background:none!important}</style>
+		</div>
+		<script type='text/javascript'> function init_map(){
+			var	myOptions = {
+					zoom:17,center:new google.maps.LatLng(55.7182502,37.42308419999995),
+					mapTypeId: google.maps.MapTypeId.ROADMAP
+				};
+				map = new google.maps.Map(document.getElementById('gmap_canvas'), myOptions);
+				marker = new google.maps.Marker({
+					map: map,
+					position: new google.maps.LatLng(55.7182502,37.42308419999995),
+					icon: {
+						url: "img/icon-map-pointer.png",
+						scaledSize: new google.maps.Size(50, 61)
+					}
+					});
+				infowindow = new google.maps.InfoWindow({
+					content:'<strong>Беринапрокат24</strong><br>Москва Рябиновая улица 4б<br>'
+					});
+					google.maps.event.addListener(marker, 'click', function(){infowindow.open(map,marker);
+					});
+				infowindow.open(map,marker);}google.maps.event.addDomListener(window, 'load', init_map);
+		</script>
+
+	</main>
+
+<!-- Footer -->
+
+	<footer class="footer">
+		<div class="footer__inner inner flex-row">
+			<div class="footer__nav flex-row">
+				<nav class="footer__wrapper nav__menu flex-column">
+					<p class="footer__rubric">НАВИГАЦИЯ</p>
+					<a href="#">О компании</a>
+					<a href="#">Продажа оборудования</a>
+					<a href="#">Ремонт и сервис</a>
+					<a href="#">Расходные материалы</a>
+					<a href="#">Условия аренды</a>
+					<a href="#">Доставка</a>
+					<a href="#">Советы</a>
+					<a href="#">Контакты</a>
+				</nav>
+				<div class="footer__wrapper footer__equip nav__menu flex-column">
+					<p class="footer__rubric">ОБОРУДОВАНИЕ</p>
+					<a href="#">Splitstone</a>
+					<a href="#">Инстар</a>
+					<p class="footer__rubric"><br>ДОПОЛНИТЕЛЬНО</p>
+					<a href="#">Каталог оборудования</a>
+					<a href="#">Сотрудничество</a>
+					<a href="#">Вопросы и ответы</a>
+				</div>
+				<div class="footer__wrapper footer__prop flex-column">
+					<div class="flex-column">
+						<div class="footer__phone phone__wrapper flex-column">
+						<div class="phone-number flex-row">
+							<div class="phone-number__logo hexagon-small__logo">
+								<img src="img/icon-phone.png" alt="">
+							</div>
+							<div class="phone-number footer__prop">
+								<p>+7 (499) 390-31-91</p>
+								<p>+7 (985) 887-44-20</p>
+							</div>
+						</div>
+						<a href="#callback" title="">
+							<div class="phone-button button__color">
+								<p>заказать звонок</p>
+							</div>
+						</a>
+					</div>
+					<div class="footer__mail flex-row">
+						<div class="mail__logo hexagon-small__logo">
+							<img src="img/icon-letter-white.png" alt="">
+						</div>
+						<p>
+							<a href="#" title="mail to">berinaprokat24@bk.ru</a>
+						</p>
+					</div>
+					<div class="footer__adress flex-row">
+						<div class="adress__logo hexagon-small__logo">
+							<img src="img/icon-adress.png" alt="">
+						</div>
+						<p>
+							Адрес:<br>121471 Москва, Рябиновая улица 4Б
+						</p>
+					</div>
+					<div class="footer__watch flex-row">
+						<div class="watch__logo hexagon-small__logo">
+							<img src="img/icon-watch.png" alt="">
+						</div>
+						<p>
+							Часы работы:<br>с 7:00 до 23:00 (без выходных)
+						</p>
+					</div>
+				</div>
+			</div>
+			<div class="footer__wrapper footer__copyright">
+				<a href="#"><img src="img/logo_footer.png" alt="" class="footer__logo"></img></a>
+				<div class="footer__copyrtext">
+					<p>
+						Все права на материалы, находящиеся на сайте, охраняются в<br>соответствии с законодательством РФ.<br>При любом использовании материалов сайта письменное<br>согласие <a href="#" title="">Беринапрокат24</a> обязательно.
+					</p>
+					<p>
+						&copy 2010-2018 Беринапрокат24 Все права защищены.
+					</p>
+				</div>
+				<div class="footer__social flex-row">
+					<a href="#" title=""><img src="img/icon-youtube.png" alt=""></a>
+					<a href="#" title=""><img src="img/icon-facebook.png" alt=""></a>
+					<a href="#" title=""><img src="img/icon-googleplus.png" alt=""></a>
+					<a href="#" title=""><img src="img/icon-google.png" alt=""></a>
+				</div>
+			</div>
+		</div>
+	</footer>
+</body>
+</html>
